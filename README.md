@@ -1,32 +1,84 @@
-<h1 align="center">Hi 👋, I'm Felippe Santos</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# 💻 Portfólio Técnico — Felippe Santos
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=felippesantos00&label=Profile%20views&color=0e75b6&style=flat" alt="felippesantos00" /> </p>
+## 👨‍💼 Sobre mim
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felippesantos00" alt="felippesantos00" /></a> </p>
+Sou desenvolvedor com foco em **automação de processos, desenvolvimento de aplicações e qualidade de sistemas**, com atuação tanto no mercado financeiro quanto em projetos de impacto social.
 
-- 📝 I regularly write articles on [https://medium.com/@felipperodrigues00](https://medium.com/@felipperodrigues00)
+Atualmente atuo na **B3**, a bolsa de valores do Brasil, como **Analista de Qualidade em TI**, onde desenvolvo soluções para testes de performance, automações de análise e ferramentas internas que otimizam o dia a dia de times de QA e desenvolvimento.
 
-- 💬 Ask me about **python, pandas, flask, pydantic**
+Também coordeno o **Instituto Meninas Negras**, um projeto social que capacita jovens da periferia para o mercado de trabalho e ensino superior, com foco em tecnologia, letramento digital e programação.
 
-- 📫 How to reach me **felipperodrigues00@gmail.com**
+---
 
-- 📄 Know about my experiences [Professional with expertise in capacity and performance testing of integrated systems, and practical skills in Python, Node,js, API REST, AWK, and Shell Script.](Professional with expertise in capacity and performance testing of integrated systems, and practical skills in Python, Node,js, API REST, AWK, and Shell Script.)
+## 🚀 Tecnologias & Ferramentas
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/felippe-santos-54058111a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/felippe-santos-54058111a/" height="30" width="40" /></a>
-<a href="https://medium.com/@felipperodrigues00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@felipperodrigues00" height="30" width="40" /></a>
-</p>
+| Categoria              | Tecnologias / Ferramentas                                                  |
+|------------------------|----------------------------------------------------------------------------|
+| Linguagens             | Python, Shell Script, AWK, JavaScript (básico), SQL                        |
+| Monitoramento          | Splunk, Dynatrace, Grafana                                                 |
+| Testes de performance  | Apache JMeter,Locust                                                       |
+| Desenvolvimento web    | FastAPI, Flask, Google Apps Script (GAS)                                   |
+| Automação              | Python (scripting), GAS, CI/CD, ferramentas customizadas                   |
+| Mensageria             | FIX 4.4 (análise, parsing, mock e replay)                                  |
+| Versionamento          | Git, GitLab, GitHub                                                        |
+| Metodologias           | Ágil/Scrum, Kanban                                                         |
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://buymeacoffee.com/felipperodz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="felippesantos00" /></a><a href="https://ko-fi.com/felippesantos00"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="felippesantos00" /></a></p><br><br>
+## 🧠 Habilidades
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=felippesantos00&show_icons=true&locale=en&layout=compact" alt="felippesantos00" /></p>
+- Desenvolvimento de automações para processos operacionais e análise de sistemas
+- Construção de **mocks** e **injetores personalizados**
+- Monitoramento de aplicações com **Splunk**, **Dynatrace** e **Grafana**
+- Criação de **dashboards**, alertas e relatórios automatizados
+- Integração com pipelines CI/CD para QA e desenvolvimento
+- Ensino de programação e lógica para jovens iniciantes em tecnologia
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=felippesantos00&show_icons=true&locale=en" alt="felippesantos00" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felippesantos00&" alt="felippesantos00" /></p>
+## 📂 Projetos
+
+### 🔧 Automação e Qualidade na B3
+
+- **Injetores e Simuladores (FIX 4.4)**  
+  Scripts para simular operações de mercado em ambientes de homologação.
+
+- **Dashboards para Performance**  
+  Uso de Splunk e Grafana para criar visões analíticas sobre testes de capacidade e volumetria.
+
+- **Análise de Logs com AWK + Shell**  
+  Scripts que automatizam a análise de grandes volumes de log, reduzindo o tempo de diagnóstico.
+
+### Projetos por hobbies
+
+- **gambiTools**
+  <br>GambiTools é uma coleção de utilitários em shell script e AWK, projetada para resolver problemas comuns de forma rápida e eficiente. Inspirado na versatilidade do "canivete suíço", o GambiTools oferece uma série de funções que automatizam e facilitam operações cotidianas no desenvolvimento e administração de sistemas.
+- **Burimo.io**
+  <br>Burimo é uma ferramenta que ajuda a corrigir termos que podem ser pejorativos ou ofensivos, especialmente para pessoas negras. A ideia é conscientizar as pessoas para usarem palavras que não carreguem racismo ou preconceito.
+- **Agendamento Online de Reuniões**
+  <br>Este projeto tem por finalidade registrar, acompanhar, descrever e finalizar um processo de agendamento de reuniões
+
+---
+
+### 🌍 Projetos Sociais
+
+- **Gestor de Presença e Avaliações (Google Sheets + GAS)**  
+  Ferramenta para controle de presença com rubricas automatizadas e relatórios por aluno.
+
+- **Planilha de Cronograma Dinâmico**  
+  Geração automática de cronogramas com lógica de feriados e entregas de projetos.
+
+- **Aulas e Conteúdo Técnico**  
+  Desenvolvimento de material didático e mentorias em Python e letramento digital.
+
+---
+
+## 📫 Contato
+
+- Email: felipperodrigues00@gmail.com
+- LinkedIn: https://www.linkedin.com/in/felippe-santos-54058111a/
+- Medium: https://medium.com/@felipperodrigues00
+
+---
+
+> "Tecnologia com propósito transforma realidades. Meu foco é criar soluções que fazem a diferença — seja no mercado ou na comunidade."
